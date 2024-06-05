@@ -10,7 +10,7 @@ API_HASH = Your API_HASH from https://my.telegram.org/apps
 # Deploy Method :
 ## Heroku :
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Prime-Hritu/image2pdf-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Vasi420/IMG2PDF)
 
 ## Termux :
 ```
@@ -29,8 +29,8 @@ pip install -r requirements.txt
 ```python bot.py```
 
 # Contact Me :
-[![Contact Me On Telegram](https://img.shields.io/badge/Contact%20Hritu-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Prime_Hritu)
+[![Contact Me On Telegram](https://img.shields.io/badge/Contact%20Hritu-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Anbe_Sivam_Bots)
 
 ## Give one star to the repo it will take only one click on your PC or Mobile screen 🙂
 
-**Special Thanks To [lntechnical2](https://github.com/lntechnical2) For [Imagetopdf](https://github.com/lntechnical2/Imagetopdf) Repo**
+**Special Thanks To [lntechnical2](https://github.com/Vasi420/IMG2PDF) For [Imagetopdf](https://github.com/Vasi420/IMG2PDF) Repo**
