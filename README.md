@@ -18,7 +18,7 @@ apt update && apt upgrade
 pkg update && pkg upgrade
 pkg install python
 pkg install git
-git clone https://github.com/Prime-Hritu/image2pdf-Bot
+git clone https://github.com/Vasi420/IMG2PDF
 cd image2pdf-Bot
 pip install -r requirements.txt
 ```
@@ -29,7 +29,7 @@ pip install -r requirements.txt
 ```python bot.py```
 
 # Contact Me :
-[![Contact Me On Telegram](https://img.shields.io/badge/Contact%20Hritu-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Anbe_Sivam_Bots)
+[![Contact Me On Telegram](https://img.shields.io/badge/Contact%20VASIKARAN-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Anbe_Sivam_Bots)
 
 ## Give one star to the repo it will take only one click on your PC or Mobile screen 🙂
 
