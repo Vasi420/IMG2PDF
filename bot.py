@@ -1,6 +1,6 @@
-# code dev by t.me/Prime_Hritu
+# code dev by t.me/Anbe_Sivam_Bots
 # © Hritu
-# Use The Code With Credits To t.me/Prime_Hritu otherwise Strict Action will be taken
+# Use The Code With Credits To t.me/Anbe_Sivam_Bots otherwise Strict Action will be taken
 import os
 from PIL import Image
 from pyrogram import Client,filters 
@@ -38,11 +38,11 @@ i can convert image to pdf
 This bot created by {BOTBY}""",reply_to_message_id = message.id ,  reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("Updates Channel 🇮🇳" ,url=f"https://t.me/Private_Bots") ],
+                    InlineKeyboardButton("Updates Channel 🇮🇳" ,url=f"https://t.me/Anbe_Sivam_Bots") ],
 [
-                    InlineKeyboardButton("Developer 💀" ,url="https://t.me/Prime_Hritu") ],
+                    InlineKeyboardButton("Developer 💀" ,url="https://t.me/Anbesivam_Owner") ],
 [
-                    InlineKeyboardButton("Source Code 👀" ,url="https://github.com/Prime-Hritu/image2pdf-Bot") ]
+                    InlineKeyboardButton("Source Code 👀" ,url="https://github.com/") ]
                  ]        ) )
 
 
